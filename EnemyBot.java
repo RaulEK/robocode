@@ -48,6 +48,7 @@ public class EnemyBot {
 		this.energy = 0.0;
 		this.heading = 0.0;
 		this.velocity = 0.0;
+
 	}
 	
 	public boolean none() {
